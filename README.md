@@ -19,11 +19,9 @@ The annual analysis from 2019 to 2020 uncovers a remarkable surge in key metrics
 
 The intriguing patterns in average order value (AOV), including instances of negative AOV despite increases in orders and total sales, pose unique challenges. For instance, in March 2021, despite a negative AOV growth rate of -6%, there was a 29% increase in the number of orders, suggesting that customers were purchasing more items at lower costs. 
 Navigating these complexities is crucial for TechTrove to sustain growth and customer satisfaction, as this comprehensive analysis provides invaluable insights into sales performance metrics over time. Leveraging these insights to identify peak sales months and adapt strategies accordingly allows TechTrove to optimize operations and ensure continued success in the ever-evolving ecommerce landscape.
-
-
-
-
 ### Loyalty Member Program
+![Screenshot 2024-06-14 at 10 27 03 AM](https://github.com/MelodiousMeadow/TechTrove_eCommerce_Analysis/assets/109684736/e6219620-18b8-48f7-9edf-08d0d7102f70)
+
 
 ### Refunds Recap
 
