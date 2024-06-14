@@ -27,6 +27,13 @@ TechTrove's sales growth data indicates that loyalty members consistently outpac
 
 ### Refunds Recap
 
+
+
+
+
+
+
+
 ### Regional Patterns
 
 ## Actionable Items and Recommendations 
