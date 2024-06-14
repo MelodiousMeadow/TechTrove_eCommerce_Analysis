@@ -22,6 +22,8 @@ Navigating these complexities is crucial for TechTrove to sustain growth and cus
 ### Loyalty Member Program
 ![Screenshot 2024-06-14 at 10 27 03 AM](https://github.com/MelodiousMeadow/TechTrove_eCommerce_Analysis/assets/109684736/e6219620-18b8-48f7-9edf-08d0d7102f70)
 
+TechTrove's sales growth data indicates that loyalty members consistently outpaced non-loyalty members in terms of purchasing behavior. Between 2019 and 2020, sales among loyalty members surged by 614%, attributed largely to Covid-19, while non-loyalty members saw a growth rate of 108%. Subsequently, loyalty members continued to exhibit growth, with a substantial 64% increase between 2020 and 2021 and a 44% decrease by 2022, whereas non-loyalty members experienced drops ranging from 40-50% in subsequent years. The substantial increase in sales among loyalty members in 2020, despite fluctuations in growth rates in ensuing years, suggests their higher engagement and reliance on the loyalty program. Additionally, loyalty members maintained higher AOVs compared to non-members, indicating a tendency to purchase more expensive items. Moreover, while loyalty members saw a significant increase in the total number of orders in 2020, indicating frequent purchases, non-loyalty members experienced a rapid increase followed by declines, suggesting a decline in engagement or retention. Overall, these findings underscore the effectiveness of TechTrove's loyalty program in driving higher sales and engagement among its members.
+
 
 ### Refunds Recap
 
