@@ -10,7 +10,15 @@ An analysis spanning from 2019 to 2022 revealed significant sales growth, surpas
 
 ### Yearly and Monthly Trends
 
-The fluctuations in TechTrove's monthly sales mirror broader business growth trends. This is evident in the consistent negative growth rates during January and February. Seasonal patterns, like the surges in average growth rates observed during holiday seasons, as seen in July (11%) and the winter holiday period spanning November and December (21%), illuminate consumer spending behaviors. External factors, including economic conditions, wield influence over sales performance and growth rates, as showcased by the significant surge of 50% in March 2020 amidst the COVID-19 Pandemic, and then the subsequent decline in October 2022 due to changes in market conditions or consumer preference. Understanding cyclical patterns, such as the recurring negative growth rates in June and fluctuations in January, empowers TechTrove to optimize strategies for peak seasons and navigate slower periods with resilience. This thorough analysis equips TechTrov to make informed decisions and strategic adjustments, driving revenue maximization and ensuring sustained long-term growth and customer loyalty.
+![Screenshot 2024-06-14 at 8 53 55 AM](https://github.com/MelodiousMeadow/TechTrove_eCommerce_Analysis/assets/109684736/10d2de3f-99f4-4600-8022-b5ab0a166122)
+![Screenshot 2024-06-14 at 8 59 57 AM](https://github.com/MelodiousMeadow/TechTrove_eCommerce_Analysis/assets/109684736/bc674bda-57c5-4824-8753-a8188d18517f)
+
+As observable above, trends from 2019 to 2022 in TechTrove's ecommerce operations reveal fascinating insights in sales dynamics. Overall, TechTrove made a total of over 28M in revenue. During this time there were noticeable peaks in purchases, particularly evident during the holiday season (averaging 21%), juxtaposed with consistent troughs in growth rates during October (averaging -31%) and February(averaging -23%).
+
+The annual analysis from 2019 to 2020 uncovers a remarkable surge in key metrics such as the number of orders, total sales, and average order value, including a notable 101% increase in orders. This surge can be attributed to the significant change in consumer behavior triggered by the emergence of the COVID-19 pandemic, prompting more consumers to turn to online purchases for remote work necessities. For instance, in March of 2020, there was a 46% spike in the number of orders. Conversely, October 2022 saw a stark decline of 47%, reflecting the intricate dynamics of the market.
+
+The intriguing patterns in average order value (AOV), including instances of negative AOV despite increases in orders and total sales, pose unique challenges. For instance, in March 2021, despite a negative AOV growth rate of -6%, there was a 29% increase in the number of orders, suggesting that customers were purchasing more items at lower costs. 
+Navigating these complexities is crucial for TechTrove to sustain growth and customer satisfaction, as this comprehensive analysis provides invaluable insights into sales performance metrics over time. Leveraging these insights to identify peak sales months and adapt strategies accordingly allows TechTrove to optimize operations and ensure continued success in the ever-evolving ecommerce landscape.
 
 
 
