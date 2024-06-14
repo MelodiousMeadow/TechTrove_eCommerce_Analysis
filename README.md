@@ -32,7 +32,9 @@ TechTrove's sales growth data indicates that loyalty members consistently outpac
 
 ### Refunds Recap
 
-
+<p align="center">
+  <img src="images/Refund_Rate.png" alt="% rates between Apple and non-Apple products">
+</p>
 
 
 
@@ -40,6 +42,11 @@ TechTrove's sales growth data indicates that loyalty members consistently outpac
 
 
 ### Regional Patterns
+
+<p align="center">
+  <img src="images/Regional_Sales_Trends.png" alt="sales trends between different regions">
+</p>
+
 
 ## Actionable Items and Recommendations 
 
