@@ -10,8 +10,11 @@ An analysis spanning from 2019 to 2022 revealed significant sales growth, surpas
 
 ### Yearly and Monthly Trends
 
-![Screenshot 2024-06-14 at 8 53 55 AM](https://github.com/MelodiousMeadow/TechTrove_eCommerce_Analysis/assets/109684736/10d2de3f-99f4-4600-8022-b5ab0a166122)
-![Screenshot 2024-06-14 at 8 59 57 AM](https://github.com/MelodiousMeadow/TechTrove_eCommerce_Analysis/assets/109684736/bc674bda-57c5-4824-8753-a8188d18517f)
+<p align="center">
+  <img src="images/Monthly_Growth_Rates.png" width="400" alt="monthly synopsis">
+  <img src="images/Yearly_Growth_Trends.png" width="400" alt="yearly synopsis">
+</p>
+
 
 As observable above, trends from 2019 to 2022 in TechTrove's ecommerce operations reveal fascinating insights in sales dynamics. Overall, TechTrove made a total of over 28M in revenue. During this time there were noticeable peaks in purchases, particularly evident during the holiday season (averaging 21%), juxtaposed with consistent troughs in growth rates during October (averaging -31%) and February(averaging -23%).
 
