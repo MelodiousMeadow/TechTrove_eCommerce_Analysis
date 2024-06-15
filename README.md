@@ -36,10 +36,7 @@ TechTrove's sales growth data indicates that loyalty members consistently outpac
   <img src="images/Refund_Rate.png" alt="% rates between Apple and non-Apple products">
 </p>
 
-Distinct trends emerge concerninng refund rates for Apple and non-Apple product lines. 2020 saw a hgiher overall return rate of 8% compared 2019 (5%) and 2021 (3%). Within the non-Apple category, the ThinkPad laptop had a 17% refund rate in 2019 and 2020, dropping to 9% in 2021. Similarly, the 27-inch gaming monitor followed with significant return rates. No refudns were reported across all products in 2022. These trends suggest that factors such as product pricing, quality issues, or evolving consumer preferences may influence return rates.
-
-Airpod headphones consistently accounted for over 80% of all Apple items refunded between 2019 and 2021, indicating potential concerns related to quality control or user expectations that TechTrove should address. Conversly, iPhones maintained a steady 1% return rate across these years, underscoring their consistent quality and high user satisfaction.
-For non-Apple produts, the 27-inch gaming monitor accounted for over 60% of all returns for non-Apple products. Again, this high percentage should immediately prompt a need for TechTrove to investigate factors such as product quality or shifts in consumer preferences that might influence return rates. 
+Airpod headphones consistently accounted for over 80% of all Apple items refunded between 2019 and 2021, indicating potential concerns related to quality control or user expectations that TechTrove should address. Conversly, iPhones maintained a steady 1% return rate across these years, underscoring their consistent quality and high user satisfaction. For non-Apple produts, the 27-inch gaming monitor accounted for over 60% of all returns for non-Apple products. Again, this high percentage should immediately prompt a need for TechTrove to investigate factors such as product quality or shifts in consumer preferences that might influence return rates. 
 
 
 ### Regional Patterns
