@@ -48,7 +48,7 @@ As observable above, AirPod headphones consistently accounted for over 80% of al
 ### Regional Patterns
 
 <p align="center">
-  <img src="images/Regional_Sales_Trends.png" alt="sales trends between different regions">
+  <img src="images/Regional_Pie_Chart.png" alt="pie chart for total sales among regions">
 </p>
 
 In terms of regional sales distribution, North America (NA) leads with a 52% market share, underscoring its pivotal role in TechTrove's consumer base and market strategy. The European, Middle Eastern, and African region (EMEA) follows with 29% of total sales, indicating significant shopping activity in these areas. Asia-Pacific (APAC) and Latin America (LATAM) contribute 13% and 6% respectively, suggesting opportunities for growth in these markets where TechTrove's market share is comparatively lower.
