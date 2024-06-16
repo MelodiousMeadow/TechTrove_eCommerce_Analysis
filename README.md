@@ -13,6 +13,7 @@ From 2019 to 2022, TechTrove experienced significant sales growth, surpassing $2
   <img src="images/Monthly_Growth_Rates.png" width="400" alt="monthly synopsis">
   <img src="images/Yearly_Growth_Trends.png" width="400" alt="yearly synopsis">
 </p>
+
 Analysis of TechTrove's ecommerce operations from 2019 to 2022 reveals dynamic sales trends. Purchases peaked notably during holiday seasons (averaging a 21% increase), while growth rates consistently dipped in October (averaging -31%) and February (averaging -23%), reflecting seasonal fluctuations in consumer behavior.
 
 From 2019 to 2020, key metrics such as orders, total sales, and AOV surged, driven by shifts in consumer behavior due to the COVID-19 pandemic. Orders increased by 101%, with a significant spike of 46% in March 2020. However, October 2022 saw a sharp decline of 47%, illustrating market dynamics.
@@ -26,29 +27,23 @@ Navigating these complexities is crucial for TechTrove to sustain growth and cus
   <img src="images/Loyalty_Program_Visual.png" alt="Loyalty Member Visual">
 </p>
 
-TechTrove's sales growth data indicates that loyalty members consistently outpaced non-loyalty members in terms of purchasing behavior. Between 2019 and 2020, sales growth rate among loyalty members surged by 614%, attributed largely to Covid-19, while non-loyalty members saw a growth rate of 108%. Subsequently, loyalty members continued to exhibit growth, with a substantial 64% increase between 2020 and 2021 and a -44% change by 2022, whereas non-loyalty members experienced consistent negative growth rates between -40 and -50% from 2020-2022. 
-
-The substantial increase in sales among loyalty members in 2020, despite fluctuations in growth rates in ensuing years, suggests their higher engagement and reliance on the loyalty program. Additionally, loyalty members maintained higher AOVs compared to non-members, indicating a tendency to purchase more expensive items. Moreover, while loyalty members saw a significant increase in the total number of orders in 2020, indicating frequent purchases, non-loyalty members experienced a rapid increase followed by declines, suggesting a decline in engagement or retention. In summary, these findings underscore the effectiveness of TechTrove's loyalty program in driving higher sales and engagement among its members.
-
 TechTrove's sales data highlights the significant impact of its loyalty program on purchasing behavior. Between 2019 and 2020, sales growth rate among loyalty members surged by 614%, largely influenced by the COVID-19 pandemic, while non-loyalty members saw a growth rate of 108%. Subsequently, loyalty members continued to grow with a 64% increase from 2020 to 2021 and a then a decline of 44% by 2022. In contrast, non-loyalty members experienced consistent negative growth rates ranging from -40% to -50% from 2020 onward.
 
 The spike in loyalty member sales in 2020, despite fluctuating growth rates in subsequent years, underscores their higher engagement with the loyalty program. Moreover, loyalty members consistently maintained higher average order values (AOVs), indicating a preference for more expensive items. In contrast, non-loyalty members initially saw an increase followed by declines in orders, suggesting lower engagement or retention.
-
-In summary, these insights demonstrate the effectiveness of TechTrove's loyalty program in driving increased sales and engagement among its members.
 
 ### Recap of Refunds and Returns
 <p align="center">
   <img src="images/Refund_Avg.png" alt="% refunded over total units assigned">
 </p>
+
 We observe that more expensive items in both Apple and non-Apple product lines tend to have higher maximum refund rates, such as 17% for the MacBook Air and 16% for the ThinkPad. Conversely, products priced under $100 consistently show refund rates of less than 5% from monthly averages between 2019 and 2022. This suggests customers exhibit greater commitment to higher-priced purchases, often investing time in returning them.
 
-The Apple iPhone displays significant variability in refund rates, with a 14% rate in February, no returns in June or July, and a spike to 18% in August. This pattern may indicate seasonal returns, potentially preceding new model releases in September. Additionally, fluctuations in the total number of iPhone refunds, e.g. 5 in 2019, 13 in 2020, and 4 in 2021, contribute to periodic spikes in refund rates due to the low count of refunds.
-
-Notably, no refunds were recorded in 2022 across all products, prompting TechTrove to investigate this anomaly.
+The Apple iPhone displays significant variability in refund rates, with a 14% rate in February, no returns in June or July, and a spike to 18% in August. This pattern may indicate seasonal returns, potentially preceding new model releases in September. Additionally, fluctuations in the total number of iPhone refunds, e.g. 5 in 2019, 13 in 2020, and 4 in 2021, contribute to periodic spikes in refund rates due to the low count of refunds. Notably, no refunds were recorded in 2022 across all products, prompting TechTrove to investigate this anomaly.
 
 <p align="center">
   <img src="images/Refund_Proportions.png" alt="% rates between Apple and non-Apple products">
 </p>
+
 AirPod headphones consistently represented over 80% of all refunded Apple items from 2019 to 2021, highlighting a significant share of refunds within TechTrove's Apple product line. This raises concerns about potential issues related to quality control or customer expectations that TechTrove should investigate. In contrast, iPhones maintained a steady 1% refund rate during this period, indicating consistent quality and high customer satisfaction.
 
 For non-Apple products, the 27-inch gaming monitor accounted for over 60% of all returns, suggesting a notable refund share within TechTrove's non-Apple product line. This observation underscores the need for TechTrove to explore factors such as product quality or evolving consumer preferences that could impact return rates across its entire product range.
@@ -57,6 +52,7 @@ For non-Apple products, the 27-inch gaming monitor accounted for over 60% of all
 <p align="center">
   <img src="images/Regional_Pie_Chart.png" alt="pie chart for total sales among regions">
 </p>
+
 North America (NA) leads in regional sales distribution with a 52% market share, emphasizing its central role in TechTrove's consumer base and strategy. The European, Middle Eastern, and African region (EMEA) follows closely with 29% of total sales, indicating significant shopping activity in these areas. Asia-Pacific (APAC) and Latin America (LATAM) contribute 13% and 6%, respectively, presenting growth opportunities for TechTrove in these expanding markets.
 
 The Bose Soundsport Headphones made no contribution to total sales, registering 0% across all regions. Globally, the 27-inch gaming monitor emerged as the top-selling product, with the MacBook Air also performing strongly, reflecting a preference for gaming-related items and varying demand for Apple products outside the US.
@@ -64,12 +60,6 @@ The Bose Soundsport Headphones made no contribution to total sales, registering 
 Understanding these regional preferences and market dynamics will enable TechTrove to tailor its marketing strategies and product offerings effectively, maximizing sales potential in each segment. Targeted marketing and product development aligned with emerging trends will be essential for expanding market share in APAC and LATAM.
 
 ## Proposed Improvements and Recommendations 
-
-TechTrove faces unique challenges and opportunities revealed by its AOV fluctuations and the effectiveness of its loyalty program. Despite occasional negative AOV growth, such as the -6% rate in March 2021 alongside increased orders, TechTrove can optimize pricing strategies to maximize revenue per transaction while maintaining customer satisfaction. Enhancing the loyalty program's effectiveness through personalized rewards and exclusive incentives based on customer behavior will foster greater engagement and repeat purchases. Addressing high return rates, especially in specific product categories, requires TechTrove to investigate factors like product quality issues or shifts in consumer preferences. Tailoring marketing strategies to regional preferences and market dynamics, particularly in the Asian Pacific and Latin America, presents growth opportunities through localized campaigns and product offerings. By implementing these strategies, TechTrove can navigate challenges effectively, capitalize on opportunities for expansion, and maintain a competitive edge in the dynamic ecommerce landscape.
-
-
-ChatGPT
-Your passage provides comprehensive insights and strategies for TechTrove but can be refined to improve clarity and conciseness. Here's a revised version:
 
 TechTrove faces unique challenges and opportunities reflected in its average order value (AOV) fluctuations and the effectiveness of its loyalty program. Notwithstanding occasional negative AOV growth, such as the -6% rate in March 2021 despite increased orders, TechTrove can optimize pricing strategies to maximize revenue per transaction while ensuring customer satisfaction. Enhancing the loyalty program with personalized rewards and exclusive incentives based on customer behavior will promote greater engagement and repeat purchases.
 
