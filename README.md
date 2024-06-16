@@ -31,13 +31,19 @@ TechTrove's sales growth data indicates that loyalty members consistently outpac
 
 
 ### Refunds Recap
+<p align="center">
+  <img src="images/Refund_Avg.png" alt="% refunded over total units assigned">
+</p>
+
+We observe that more expensive items across both Apple and non-Apple product lines tend to have higher maximum refund rates, such as 17% for the MacBook Air laptop and 16% for the ThinkPad laptop. Conversely, products priced under $100 consistently show refund rates of less than 5% across monthly averages from 2019 to 2022. This suggests that customers are more committed to higher-priced purchases and are willing to invest time in returning them.
+Interestingly, the Apple iPhone shows significant variability, with a 14% refund rate in February, no returns in June or July, and a spike to 18% in August. This pattern suggests that consumers might choose to return iPhones in August, potentially ahead of new model releases in September. Alternatively, the total overall refund count for iPhones, e.g., 5 in 2019, 13 in 2020, and 4 in 2021—contributes to spikes in the refund rate at certain times during the year. Minor fluctuations in the number of refunds lead to larger percentage changes in the refund rate due to this low count.
+Please note that no refunds occurred in 2022 across all products which is an area that TechTrove should look into. 
 
 <p align="center">
   <img src="images/Refund_Rate.png" alt="% rates between Apple and non-Apple products">
 </p>
 
-Airpod headphones consistently accounted for over 80% of all Apple items refunded between 2019 and 2021, indicating potential concerns related to quality control or user expectations that TechTrove should address. Conversly, iPhones maintained a steady 1% return rate across these years, underscoring their consistent quality and high user satisfaction. For non-Apple produts, the 27-inch gaming monitor accounted for over 60% of all returns for non-Apple products. Again, this high percentage should immediately prompt a need for TechTrove to investigate factors such as product quality or shifts in consumer preferences that might influence return rates. 
-
+As observable above, AirPod headphones consistently accounted for over 80% of all Apple items refunded between 2019 and 2021, indicating a high proportional refund share within the Apple product line. This suggests potential concerns for TechTrove related to quality control or user expectations that TechTrove should address. Conversely, iPhones maintained a steady 1% refund rate across these years, underscoring their consistent quality and high user satisfaction. Refund rate here refers to the proportion of iPhones refunded relative to total iPhone sales. For non-Apple products, the 27-inch gaming monitor accounted for over 60% of all returns, similarly reflecting a significant refund share within the non-Apple product line. Again, this high percentage should immediately prompt a need for TechTrove to investigate factors such as product quality or shifts in consumer preferences that might influence return rates across its entire portfolio.
 
 ### Regional Patterns
 
