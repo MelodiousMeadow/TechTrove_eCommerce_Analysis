@@ -61,9 +61,10 @@ Understanding these regional preferences and market dynamics will enable TechTro
 
 ## Proposed Improvements and Recommendations 
 
-TechTrove faces unique challenges and opportunities reflected in its average order value (AOV) fluctuations and the effectiveness of its loyalty program. Notwithstanding occasional negative AOV growth, such as the -6% rate in March 2021 despite increased orders, TechTrove can optimize pricing strategies to maximize revenue per transaction while ensuring customer satisfaction. Enhancing the loyalty program with personalized rewards and exclusive incentives based on customer behavior will promote greater engagement and repeat purchases.
+TechTrove faces unique challenges and opportunities reflected in its AOV fluctuations and the effectiveness of its loyalty program. Despite occasional negative AOV growth, TechTrove can optimize pricing strategies to maximize revenue per transaction while ensuring customer satisfaction. Enhancing the loyalty program with personalized rewards and exclusive incentives based on customer behavior will promote greater engagement and repeat purchases.
 
 Addressing high return rates, particularly in specific product categories, requires TechTrove to investigate factors such as product quality issues or shifts in consumer preferences. Tailoring marketing strategies to regional preferences and dynamics, especially in Asia-Pacific and Latin America, presents growth opportunities through localized campaigns and product offerings.
 
 TechTrove's overarching goal is to achieve a total of $30 million in increased total sales by January 2027. Implementing these strategies will enable TechTrove to effectively navigate challenges, capitalize on expansion opportunities, and maintain a competitive edge in the dynamic ecommerce landscape.
+
 
