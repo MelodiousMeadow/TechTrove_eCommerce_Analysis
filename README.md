@@ -3,6 +3,10 @@ Founded in 2014, TechTrove offers customers globally a wide array of high-qualit
 
 ### Digest of Discoveries
 
+<p align="center">
+  <img src="images/Total_Price_y_m.png" width="400" alt="monthly synopsis">
+</p>
+
 From 2019 to 2022, TechTrove experienced significant sales growth, surpassing $28 million USD. In 2020, the average order value (AOV) peaked at $300, marking a 163% total sales growth from 2019 to 2020, largely influenced by the COVID-19 pandemic which prompted customers to work and stay at home. However, there was a 10% decline in total orders in 2021 followed by a notable 46% drop in 2022. It is crucial for TechTrove to investigate the reasons behind these declines and strategize to maintain the sales momentum observed from 2019 to 2021. The following report presents a data-driven analysis and actionable recommendations for TechTrove to navigate successfully forward. Click [here](images/TechTrove_ERD.png) to view the entity relationship diagram.
 
 ## Insights Gleaned
