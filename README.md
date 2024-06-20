@@ -31,7 +31,7 @@ Navigating these complexities is crucial for TechTrove to sustain growth and cus
   <img src="images/Loyalty_Nonloyalty.png" alt="Loyalty Member Visual">
 </p>
 
-Comparing order growth rates between loyalty and non-loyalty customers from January 2019 to December 2022 reveals significant contrasts in their order patterns.
+A comparison of monthly order count growth rates between loyalty and non-loyalty customers from 2019-2022 shows notable differences in their purchasing trends.
 
 Non-loyalty customers displayed fluctuating growth rates over the period, experiencing significant swings such as a decline of -40% in October 2022 and occasional peaks, such as a 39% increase in March 2020. On the other hand, loyalty customers consistently demonstrated steadier growth, highlighted by positive percentages like 117% in March 2019 and 66% in March 2020, which stood out amidst varying trends.
 
