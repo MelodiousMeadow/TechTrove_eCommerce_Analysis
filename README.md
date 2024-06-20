@@ -14,7 +14,7 @@ From 2019 to 2022, TechTrove experienced significant sales growth, surpassing $2
 ### Yearly and Monthly Trends
 
 <p align="center">
-  <img src="images/Monthly_Growth_Rates.png" width="400" alt="monthly synopsis">
+  <img src="images/Growth_Rates_Monthly.png" width="400" alt="monthly synopsis">
   <img src="images/Yearly_Growth_Trends.png" width="400" alt="yearly synopsis">
 </p>
 
@@ -28,7 +28,7 @@ Navigating these complexities is crucial for TechTrove to sustain growth and cus
 
 ### Analysis of Loyalty Member Program
 <p align="center">
-  <img src="images/Loyalty_Program_Visual.png" alt="Loyalty Member Visual">
+  <img src="images/Loyalty_Nonloyalty.png" alt="Loyalty Member Visual">
 </p>
 
 TechTrove's sales data highlights the significant impact of its loyalty program on purchasing behavior. Between 2019 and 2020, sales growth rate among loyalty members surged by 614%, largely influenced by the COVID-19 pandemic, while non-loyalty members saw a growth rate of 108%. Subsequently, loyalty members continued to grow with a 64% increase from 2020 to 2021 and a then a decline of 44% by 2022. In contrast, non-loyalty members experienced consistent negative growth rates ranging from -40% to -50% from 2020 onward.
@@ -37,7 +37,7 @@ The spike in loyalty member sales in 2020, despite fluctuating growth rates in s
 
 ### Recap of Refunds and Returns
 <p align="center">
-  <img src="images/Refund_Avg.png" alt="% refunded over total units assigned">
+  <img src="images/Refund_Charts.png" alt="% refunded over total units assigned">
 </p>
 
 We observe that more expensive items in both Apple and non-Apple product lines tend to have higher maximum refund rates, such as 17% for the MacBook Air and 16% for the ThinkPad. Conversely, products priced under $100 consistently show refund rates of less than 5% from monthly averages between 2019 and 2022. This suggests customers exhibit greater commitment to higher-priced purchases, often investing time in returning them.
