@@ -31,9 +31,11 @@ Navigating these complexities is crucial for TechTrove to sustain growth and cus
   <img src="images/Loyalty_Nonloyalty.png" alt="Loyalty Member Visual">
 </p>
 
-TechTrove's sales data highlights the significant impact of its loyalty program on purchasing behavior. Between 2019 and 2020, sales growth rate among loyalty members surged by 614%, largely influenced by the COVID-19 pandemic, while non-loyalty members saw a growth rate of 108%. Subsequently, loyalty members continued to grow with a 64% increase from 2020 to 2021 and a then a decline of 44% by 2022. In contrast, non-loyalty members experienced consistent negative growth rates ranging from -40% to -50% from 2020 onward.
+Comparing order growth rates between loyalty and non-loyalty customers from January 2019 to December 2022 reveals significant contrasts in their order patterns.
 
-The spike in loyalty member sales in 2020, despite fluctuating growth rates in subsequent years, underscores their higher engagement with the loyalty program. Moreover, loyalty members consistently maintained higher AOV's indicating a preference for more expensive items. In contrast, non-loyalty members initially saw an increase followed by declines in orders, suggesting lower engagement or retention.
+Non-loyalty customers displayed fluctuating growth rates over the period, experiencing significant swings such as a decline of -40% in October 2022 and occasional peaks, such as a 39% increase in March 2020. On the other hand, loyalty customers consistently demonstrated steadier growth, highlighted by positive percentages like 117% in March 2019 and 66% in March 2020, which stood out amidst varying trends.
+
+This comparison underscores the effectiveness of TechTrove's loyalty programs in maintaining consistent customer engagement and fostering growth, despite occasional downturns observed across both customer segments. By focusing on sustaining and enhancing loyalty initiatives, TechTrove can mitigate the volatility seen among non-loyalty customers, strengthen customer retention efforts, and optimize overall business performance in the competitive ecommerce environment.
 
 ### Recap of Refunds and Returns
 <p align="center">
