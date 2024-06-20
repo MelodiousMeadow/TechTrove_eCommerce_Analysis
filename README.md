@@ -57,11 +57,9 @@ For non-Apple products, the 27-inch gaming monitor accounted for over 60% of all
   <img src="images/Regional_Stacked.png" alt="pie chart for total sales among regions">
 </p>
 
-North America (NA) leads in regional sales distribution with a 52% market share, emphasizing its central role in TechTrove's consumer base and strategy. The European, Middle Eastern, and African region (EMEA) follows closely with 29% of total sales, indicating significant shopping activity in these areas. Asia-Pacific (APAC) and Latin America (LATAM) contribute 13% and 6%, respectively, presenting growth opportunities for TechTrove in these expanding markets.
+North America (NA) stands out in regional sales distribution, achieving a peak total sales of 5.3 million in 2020, underscoring its pivotal role in TechTrove's consumer base and strategic focus. Following closely, the European, Middle Eastern, and African region (EMEA) also achieved significant sales of 2.9 million in 2020, highlighting robust shopping activity in these regions. In contrast, Asia-Pacific (APAC) and Latin America (LATAM) collectively accounted for less than 50% of the market share from 2019 to 2022, indicating promising growth prospects for TechTrove in these burgeoning markets.
 
-The Bose Soundsport Headphones made no contribution to total sales, registering 0% across all regions. Globally, the 27-inch gaming monitor emerged as the top-selling product, with the MacBook Air also performing strongly, reflecting a preference for gaming-related items and varying demand for Apple products outside the US.
-
-Understanding these regional preferences and market dynamics will enable TechTrove to tailor its marketing strategies and product offerings effectively, maximizing sales potential in each segment. Targeted marketing and product development aligned with emerging trends will be essential for expanding market share in APAC and LATAM.
+Understanding these regional preferences and market dynamics will empower TechTrove to adeptly tailor its marketing strategies and product offerings. Capitalizing on targeted marketing and aligning product development with emerging trends will be crucial to seizing opportunities and expanding market share in APAC and LATAM.
 
 ## Proposed Improvements and Recommendations 
 
