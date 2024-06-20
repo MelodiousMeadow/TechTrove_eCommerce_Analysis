@@ -67,8 +67,8 @@ Understanding these regional preferences and market dynamics will enable TechTro
 
 TechTrove faces unique challenges and opportunities reflected in its AOV fluctuations and the effectiveness of its loyalty program. Despite occasional negative AOV growth, TechTrove can optimize pricing strategies to maximize revenue per transaction while ensuring customer satisfaction. Enhancing the loyalty program with personalized rewards and exclusive incentives based on customer behavior will promote greater engagement and repeat purchases.
 
-Addressing high return rates, particularly in specific product categories, requires TechTrove to investigate factors such as product quality issues or shifts in consumer preferences. Tailoring marketing strategies to regional preferences and dynamics, especially in Asia-Pacific and Latin America, presents growth opportunities through localized campaigns and product offerings.
+Although some product categories, like the recently added Bose Soundsport Headphones, accounted for less than 0.1% of revenue over four years, their potential should be evaluated before making any discontinuation decisions. Addressing high return rates in other key categories is also essential by investigating factors such as product quality issues or shifts in consumer preferences. Tailoring marketing strategies to regional preferences and dynamics, especially in Asia-Pacific and Latin America, presents growth opportunities through localized campaigns and product offerings.
 
-TechTrove's overarching goal is to achieve a total of $30 million in increased total sales by January 2027. Implementing these strategies will enable TechTrove to effectively navigate challenges, capitalize on expansion opportunities, and maintain a competitive edge in the dynamic ecommerce landscape.
+TechTrove's overarching goal is to achieve a total of $30 million in increased total sales by January 2027. Implementing these strategies will enable TechTrove to effectively navigate challenges, capitalize on expansion opportunities, and maintain a competitive edge in the dynamic e-commerce landscape.
 
 
