@@ -45,7 +45,7 @@ We observe that more expensive items in both Apple and non-Apple product lines t
 The Apple iPhone displays significant variability in refund rates, with a 14% rate in February, no returns in June or July, and a spike to 18% in August. This pattern may indicate seasonal returns, potentially preceding new model releases in September. Additionally, fluctuations in the total number of iPhone refunds, e.g. 5 in 2019, 13 in 2020, and 4 in 2021, contribute to periodic spikes in refund rates due to the low count of refunds. Notably, no refunds were recorded in 2022 across all products, prompting TechTrove to investigate this anomaly.
 
 <p align="center">
-  <img src="images/Refund_Proportions.png" alt="% rates between Apple and non-Apple products">
+  <img src="images/Refund_Proportion_Share.png" alt="% rates between Apple and non-Apple products">
 </p>
 
 AirPod headphones consistently represented over 80% of all refunded Apple items from 2019 to 2021, highlighting a significant share of refunds within TechTrove's Apple product line. This raises concerns about potential issues related to quality control or customer expectations that TechTrove should investigate. In contrast, iPhones maintained a steady 1% refund rate during this period, indicating consistent quality and high customer satisfaction.
@@ -54,7 +54,7 @@ For non-Apple products, the 27-inch gaming monitor accounted for over 60% of all
 
 ### Identification of Regional Patterns
 <p align="center">
-  <img src="images/Regional_Pie_Chart.png" alt="pie chart for total sales among regions">
+  <img src="images/Regional_Stacked.png" alt="pie chart for total sales among regions">
 </p>
 
 North America (NA) leads in regional sales distribution with a 52% market share, emphasizing its central role in TechTrove's consumer base and strategy. The European, Middle Eastern, and African region (EMEA) follows closely with 29% of total sales, indicating significant shopping activity in these areas. Asia-Pacific (APAC) and Latin America (LATAM) contribute 13% and 6%, respectively, presenting growth opportunities for TechTrove in these expanding markets.
