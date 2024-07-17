@@ -28,7 +28,7 @@ Navigating these complexities is crucial for TechTrove to sustain growth and cus
 
 ### Analysis of Loyalty Member Program
 <p align="center">
-  <img src="images/loyalty_nonloyalty.png" alt="Loyalty Member Visual">
+  <img src="images/loyalty_nonloyalty1.png" alt="Loyalty Member Visual">
 </p>
 
 A comparison of monthly order count growth rates between loyalty and non-loyalty customers from 2019-2022 shows notable differences in their purchasing trends.
